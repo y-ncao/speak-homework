@@ -1,6 +1,6 @@
-# Speak Coach
+# System Design Interview Coach
 
-Speak Coach is a real-time voice AI system design interview coach built with LiveKit. It runs a mock interview out loud, pushing the student through requirements, architecture tradeoffs, bottlenecks, and follow-up questions.
+Speak System Design Interview Coach is a real-time voice AI system design interview coach built with LiveKit. It runs a mock interview out loud, pushing the student through requirements, architecture tradeoffs, bottlenecks, and follow-up questions.
 
 ## Run locally
 
